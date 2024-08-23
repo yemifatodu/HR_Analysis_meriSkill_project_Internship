@@ -275,6 +275,8 @@ This distribution shows the count and percentage of performance ratings:
 
 ### 1. Overtime Analysis Dashboard
 
+![Overtime Analysis HR Dashboard](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/Overtimeanalysishrdashboard.png)
+
 
 
 **Chart 1: Distance from Home and Overtime Hours**
