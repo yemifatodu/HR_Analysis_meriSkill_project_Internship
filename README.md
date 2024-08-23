@@ -1,5 +1,8 @@
 # **Comprehensive HR Analysis: Insights into Attrition, Overtime, and Performance Trends**
+![H.R. ANALYSIS PROJECT IMAGE](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/H.R.%20ANALYSIS%20PROJECT%20IMAGE.png)
 
+
+---
 **Introduction:**  
 
 This project delves into a detailed analysis of HR data to uncover significant trends and patterns that can inform strategic decisions. By analyzing key metrics such as attrition rates, overtime hours, and performance ratings across various departments and job roles, we aim to provide actionable insights that can enhance employee satisfaction, reduce turnover, and optimize workforce productivity. Through a series of SQL queries, we explore the underlying factors affecting employee dynamics, offering a data-driven approach to HR management.
@@ -274,8 +277,6 @@ This distribution shows the count and percentage of performance ratings:
 
 
 
-
-
 **Chart 1: Distance from Home and Overtime Hours**
 - **Title:** Distance from Home Categorization
 - **Parameters:** Distance from home (in kilometers), Overtime hours
@@ -325,7 +326,7 @@ This distribution shows the count and percentage of performance ratings:
 
 ### 2. Work Experience and Education Level Dashboard
 
-
+![Work Experience and Educational Level HR Dashboard](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/workexperinceandeducationalevelhrdashboard.png)
 
 
 **Chart 1: Count of Educational Level**
@@ -373,6 +374,9 @@ This distribution shows the count and percentage of performance ratings:
 ---
 
 ### 3. Employee Demographic and Job Characteristics Dashboard
+![Dashboard 1 (3)](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/Dashboard%201%20%283%29.png)
+
+
 
 **Chart 1: Employees Gender Segmentation**
 - **Parameters:** Gender
@@ -422,6 +426,8 @@ This distribution shows the count and percentage of performance ratings:
 ---
 
 ### 4. Turnover Analysis Dashboard
+
+![Turnover Analysis HR Dashboard](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/turnoveranalysishrdashboard.png)
 
 
 
