@@ -1,4 +1,4 @@
-# **Comprehensive HR Analysis: Insights into Attrition, Overtime, and Performance Trends**
+# **MERI SKILL HR Analysis INTERNSHIP PROJECT: Insights into Attrition, Overtime, Work experience and Performance Trends**
 ![H.R. ANALYSIS PROJECT IMAGE](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/H.R.%20ANALYSIS%20PROJECT%20IMAGE.png)
 
 
@@ -275,8 +275,7 @@ This distribution shows the count and percentage of performance ratings:
 
 ### 1. Overtime Analysis Dashboard
 
-![Overtime Analysis HR Dashboard](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/main/Overtimeanalysishrdashboard.png)
-
+![Overtime Analysis HR Dashboard](https://github.com/yemifatodu/HR_Analysis_meriSkill_project_Internship/raw/a77f99f2b7aacc5122e7738bae5aa88d0889e8c0/overtimeanalysishrdashboard.png)
 
 
 **Chart 1: Distance from Home and Overtime Hours**
